@@ -63,9 +63,3 @@ The dataset (`ObesityDataSet_raw_and_data_sinthetic.csv`) contains 2,100 records
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook Notebook/obesity_eda.ipynb
 ```
-
-## Next Steps
-
-- Investigate the counter-intuitive snacking (CAEC) vs. obesity class relationship
-- Build a classification model (e.g., Random Forest, XGBoost) to predict `NObeyesdad`
-- Feature engineering beyond BMI (e.g., interaction terms between lifestyle features)
